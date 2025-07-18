@@ -1,0 +1,108 @@
+{
+  "Apple___Apple_scab": ["Mancozeb", "Captan", "Sulfur Spray"],
+  "Apple___Black_rot": ["Carbendazim", "Copper-based fungicide"],
+  "Apple___Cedar_apple_rust": ["Myclobutanil", "Propiconazole"],
+  "Apple___healthy": ["No disease detected"],
+
+  "Blueberry___healthy": ["No disease detected"],
+
+  "Cherry_(including_sour)_Powdery_mildew": ["Neem Oil", "Sulfur Fungicide"],
+  "Cherry_(including_sour)_healthy": ["No disease detected"],
+
+  "Corn_(maize)_Cercospora_leaf_spot Gray_leaf_spot": ["Propiconazole", "Azoxystrobin"],
+  "Corn_(maize)Common_rust": ["Chlorothalonil", "Maneb"],
+  "Corn_(maize)_Northern_Leaf_Blight": ["Pyraclostrobin", "Tebuconazole"],
+  "Corn_(maize)_healthy": ["No disease detected"],
+
+  "Grape___Black_rot": ["Myclobutanil", "Trifloxystrobin"],
+  "Grape__Esca(Black_Measles)": ["Tebuconazole", "Trifloxystrobin"],
+  "Grape__Leaf_blight(Isariopsis_Leaf_Spot)": ["Copper fungicide", "Mancozeb"],
+  "Grape___healthy": ["No disease detected"],
+
+  "Orange__Haunglongbing(Citrus_greening)": ["No cure. Remove infected trees", "Use insecticides for psyllid control"],
+  "Orange___healthy": ["No disease detected"],
+
+  "Peach___Bacterial_spot": ["Copper Spray", "Oxytetracycline"],
+  "Peach___healthy": ["No disease detected"],
+
+  "Pepper,bell__Bacterial_spot": ["Streptocycline", "Copper Oxychloride"],
+  "Pepper,bell__healthy": ["No disease detected"],
+
+  "Potato___Early_blight": ["Chlorothalonil", "Mancozeb"],
+  "Potato___Late_blight": ["Metalaxyl", "Ridomil Gold"],
+  "Potato___healthy": ["No disease detected"],
+
+  "Raspberry___healthy": ["No disease detected"],
+
+  "Soybean___healthy": ["No disease detected"],
+
+  "Squash___Powdery_mildew": ["Sulfur", "Potassium bicarbonate"],
+  "Squash___healthy": ["No disease detected"],
+
+  "Strawberry___Leaf_scorch": ["Captan", "Myclobutanil"],
+  "Strawberry___healthy": ["No disease detected"],
+
+  "Tomato___Bacterial_spot": ["Copper Oxychloride", "Streptocycline"],
+  "Tomato___Early_blight": ["Chlorothalonil", "Mancozeb"],
+  "Tomato___Late_blight": ["Metalaxyl", "Mancozeb"],
+  "Tomato___Leaf_Mold": ["Mancozeb", "Copper fungicide"],
+  "Tomato___Septoria_leaf_spot": ["Chlorothalonil", "Neem oil"],
+  "Tomato___Spider_mites Two-spotted_spider_mite": ["Miticides", "Insecticidal soap"],
+  "Tomato___Target_Spot": ["Chlorothalonil", "Azoxystrobin"],
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": ["Use resistant varieties", "Control whiteflies"],
+  "Tomato___Tomato_mosaic_virus": ["Remove infected plants", "Disinfect tools"],
+  "Tomato___healthy": ["No disease detected"],
+
+  "Mango___Powdery_mildew": ["Sulfur dust", "Karathane"],
+  "Mango___Anthracnose": ["Copper oxychloride", "Carbendazim"],
+  "Mango___Bacterial_canker": ["Streptocycline", "Bordeaux mixture"],
+  "Mango___healthy": ["No disease detected"],
+
+  "Wheat___Leaf_rust": ["Propiconazole", "Mancozeb"],
+  "Wheat___Stem_rust": ["Tebuconazole", "Triadimefon"],
+  "Wheat___Loose_smut": ["Seed treatment with Carboxin", "Thiram"],
+  "Wheat___healthy": ["No disease detected"],
+
+  "Brinjal___Phomopsis_blight": ["Carbendazim", "Chlorothalonil"],
+  "Brinjal___Bacterial_wilt": ["Soil drenching with bleaching powder", "Crop rotation"],
+  "Brinjal___Little_leaf_disease": ["Control leafhoppers", "Rogor spray"],
+  "Brinjal___healthy": ["No disease detected"]
+
+
+  "Rice___Blast": ["Tricyclazole", "Isoprothiolane"],
+  "Rice___Brown_spot": ["Mancozeb", "Copper oxychloride"],
+  "Rice___Bacterial_leaf_blight": ["Streptocycline", "Copper Hydroxide"],
+  "Rice___healthy": ["No disease detected"],
+
+  "Banana___Panama_wilt": ["Carbendazim", "Soil solarization"],
+  "Banana___Sigatoka": ["Propiconazole", "Neem Oil"],
+  "Banana___healthy": ["No disease detected"],
+
+  "Pomegranate___Bacterial_blight": ["Copper fungicide", "Streptocycline"],
+  "Pomegranate___Leaf_spot": ["Mancozeb", "Neem extract"],
+  "Pomegranate___healthy": ["No disease detected"],
+
+  "Guava___Anthracnose": ["Carbendazim", "Chlorothalonil"],
+  "Guava___Wilt": ["Soil drenching with Carbendazim", "Crop rotation"],
+  "Guava___healthy": ["No disease detected"],
+
+  "Papaya___Powdery_mildew": ["Sulfur spray", "Wettable sulfur"],
+  "Papaya___Leaf_curl": ["Rogor", "Insecticidal soap"],
+  "Papaya___healthy": ["No disease detected"],
+
+  "Sugarcane___Red_rot": ["Carbendazim", "Seed treatment with Bavistin"],
+  "Sugarcane___Smut": ["Thiram", "Hot water treatment"],
+  "Sugarcane___healthy": ["No disease detected"],
+
+  "Cotton___Leaf_curl_virus": ["Use resistant varieties", "Whitefly control"],
+  "Cotton___Bacterial_blight": ["Copper oxychloride", "Streptocycline"],
+  "Cotton___healthy": ["No disease detected"],
+
+  "Chili___Anthracnose": ["Mancozeb", "Chlorothalonil"],
+  "Chili___Leaf_curl": ["Dimethoate", "Rogor"],
+  "Chili___healthy": ["No disease detected"],
+
+  "Okra___Yellow_vein_mosaic": ["Imidacloprid", "Neem oil spray"],
+  "Okra___Powdery_mildew": ["Sulfur", "Trifloxystrobin"],
+  "Okra___healthy": ["No disease detected"]
+}
